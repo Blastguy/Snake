@@ -1,6 +1,6 @@
 # Game of Snake
 # Author: Dhruv Patel
-# Purpose: Fun side project to explore PyGame and practice programming in Python
+# Purpose: Fun project to explore PyGame and practice programming in Python
 
 import random
 import pygame
